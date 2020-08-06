@@ -1,6 +1,9 @@
 //启动
+
 cd public
+
 sudo php -S localhost:8888 router.php
+
 //访问
 localhost:8888/u/1234
 
